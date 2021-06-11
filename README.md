@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **fackelm2/fackelm2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-NMIT - network management information technology
+NMIT - network management information technology 👋
 - 🔭 I’m currently working on programming a Python Framework
 - 🌱 I’m currently learning Python, Kotlin, SQLite, GIT, ..
 - 📫 How to reach me: fackelm2(at)nmit.de
