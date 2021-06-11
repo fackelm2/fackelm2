@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+NMIT - network management information technology
 - 🔭 I’m currently working on programming a Python Framework
 - 🌱 I’m currently learning Python, Kotlin, SQLite, GIT, ..
-- 📫 How to reach me: sorry - no way ;-)
+- 📫 How to reach me: fackelm2 @ nmit.de
