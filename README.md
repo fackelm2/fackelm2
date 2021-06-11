@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on programming a Python Framework
+- 🌱 I’m currently learning Python, Kotlin, SQLite, GIT, ..
+- 📫 How to reach me: sorry - no way ;-)
