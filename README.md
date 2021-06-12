@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 NMIT - network management information technology 
 - 👋 Hi, I'm Dietmar Fackelmann (@fackelm2)
 - 💞️ i like it forensic  
-- 🌱 I'm currently focusing on Python, SQLite, GIT, PyCharm, Github
-- 🔭 I’m currently interesting in programming a Framework in Python
+- 👀 I'm currently focusing on Python, SQLite, GIT, PyCharm, Github
+- 🌱 I’m currently interesting in programming a Framework in Python
 - 📫 fackelm2(at)nmit.de
