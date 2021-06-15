@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-nmit - network management information technology
+network management information technology
 - 👋 Hi, I'm Dietmar Fackelmann (@fackelm2)
 - 💞️ i like it forensic  
 - 👀 I'm currently focusing on Python, SQLite, GIT, PyCharm, Github
