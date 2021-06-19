@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-network management information technology
+Network Management Information Technology (NMIT)
 - 👋 Hi, I'm Dietmar Fackelmann (@fackelm2) computer scientist
 - 💞️ i love digital forensic / mobile device forensic / android forensic 
 - 👀 actual focusing on Android, Python, SQLite, GIT, PyCharm, Github
