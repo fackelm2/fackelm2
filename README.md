@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 -->
 
 network management information technology
-- 👋 Hi, I'm Dietmar Fackelmann (@fackelm2)
-- 💞️ i like IT-Forensic  
-- 👀 I'm currently focusing on Python, SQLite, GIT, PyCharm, Github
-- 🌱 I’m currently interesting in programming a Framework in Python
+- 👋 Hi, I'm Dietmar Fackelmann (@fackelm2) computer scientist
+- 💞️ digital forensic / mobile device forensic / android forensic 
+- 👀 Android, Python, SQLite, GIT, PyCharm, Github
+- 🌱 goals: build a forensic tool Framework in Python, live in madeira
 - 📫 fackelm2(at)nmit.de
