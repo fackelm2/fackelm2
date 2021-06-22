@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 Network Management Information Technology (NMIT)
 - 👋 Hi, I'm Dietmar Fackelmann (@fackelm2) computer scientist
-- 💞️ i love digital forensic / mobile device forensic / android forensic / network forensic
+- 💞️ i love digital forensic / mobile device forensic / iOS forensic / android forensic / network forensic
 - 👀 actual focusing on Android, iOS, Python, SQLite, GIT, PyCharm, Github
 - 🌱 private goals : learn to program
 - 📫 fackelm2(at)nmit.de
