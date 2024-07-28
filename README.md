@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 Network Management Information Technology (NMIT)
-- 👋 Hi, I'm Dietmar Fackelmann (@fackelm2) computer scientist since 2001
+- 👋 Hi, I'm Dietmar Fackelmann (@fackelm2), computer scientist since 2001
 - 💞️ i love Linux, digital forensics, mobile device forensics and network forensics
 - 👀 current focus on Android, Python, SQLite, GIT, PyCharm, Github
 - 📫 fackelm2(at)nmit.de
